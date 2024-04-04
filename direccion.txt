@@ -1,1 +1,3 @@
 la direccion de mi github es https://github.com/barbaraperezid/arduino.git
+mi nombre es Barbara Perez
+mi correo bperez_yrivarren@hotmail.com
